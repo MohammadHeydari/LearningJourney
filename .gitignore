@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+.venv/Lib
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
