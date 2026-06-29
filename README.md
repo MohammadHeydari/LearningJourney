@@ -59,4 +59,4 @@ it’s a **thinking process in public**.
 
 ## Status
 
-🟢 Actively updating
+Actively updating
